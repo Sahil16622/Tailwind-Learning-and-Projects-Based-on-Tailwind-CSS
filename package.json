@@ -1,0 +1,18 @@
+{
+  "name": "tailwind-learning-and-projects-based-on-tailwind-css",
+  "version": "1.0.0",
+  "description": "This repo contains the Tailwind projects and practice sets to master the tailwind . It is the extended version of full stack web development by love babber bhaiya.",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.17",
+    "postcss": "^8.4.35",
+    "tailwindcss": "^3.4.1",
+    "vite": "^5.1.4"
+  }
+}
